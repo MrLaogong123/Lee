@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>小米闪购-小米商城</title>
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/iconfont.css">
+	</head>
+	<body>
+		
+		<!-- 1、最顶部内容 -->
+		<div class="topbar">
+			<div class="container">
+				<div class="topbar-nav">
+					<a href="">小米商城</a><span>|</span>
+					<a href="">MIUI</a><span>|</span>
+					<a href="">LOT</a><span>|</span>
+					<a href="">云服务</a><span>|</span>
+					<a href="">金融</a><span>|</span>
+					<a href="">有品</a><span>|</span>
+					<a href="">小米开放平台</a><span>|</span>
+					<a href="">政企服务</a><span>|</span>
+					<a href="">Seletion Region</a>
+				</div>
+				<div class="topbar-cart">
+					<a href=""><i class="iconfont">&#xe60c</i>购物车<span>(0)</span></a>
+				</div>
+				<div class="topbar-info" clearfix>
+					<a href="">登陆</a><span>|</span>
+					<a href="">注册</a><span>|</span>
+					<a href="" class="sep">消息通知</a>
+				</div>
+			</div>
+		</div>
+		
+		<!-- 2、导航栏 -->
+		<div class="header">
+			<div class="container">
+				<div class="header-logo">
+					<a href="#" class="lr">小米官网</a>
+					
+				</div>
+				<div class="header-nav">
+					<ul class="nav-list clearfix">
+						<li class="nav-category">
+						<a href="" >全部商品分类</a>
+						</li>
+						<li class="nav-item">
+						<a href="">小米手机</a>
+						</li>
+						<li class="nav-item">
+						<a href="">红米</a>
+						</li>
+						<li class="nav-item">
+						<a href="">电视</a>
+						</li>
+						<li class="nav-item">
+						<a href="">笔记本</a>
+						</li>
+						<li class="nav-item">
+						<a href="">空调</a>
+						</li>
+						<li class="nav-item">
+						<a href="">新品</a>
+						</li>
+						<li class="nav-item">
+						<a href="">路由器</a>
+						</li>
+						<li class="nav-item">
+						<a href="">智能硬件</a>
+						</li>
+						<li class="nav-item">
+						<a href="">服务</a>
+						</li>
+						<li class="nav-item">
+						<a href="">社区</a>
+						</li>
+					</ul>
+				</div>
+				
+				<div class="header-search">
+					<form action="" class="search-form">
+						<input type="search" name="keyword" class="search-text">
+						<input type="submit" value="&#xe616" class="search-btn iconfont">	
+					</form>
+				</div>
+			</div>
+		</div>
+		
+		<!-- 内容部分 -->
+		<div class="seckill">
+			<div class="seckill-head"></div>
+			<div class="container">
+				<div class="seckill-nav">
+					<ul>
+						<li class="active"><em>18:00</em><span><em>即将开始<br>距开始 01:25:15</em></span></li>
+						
+						<li><em>20:00</em><span>即将开始</span></li>
+						<li><em>22:00</em><span>即将开始</span></li>
+						<li><em>00:00</em><span>明天开始</span></li>
+						<li><em>08:00</em><span>明天开始</span></li>
+					</ul>
+				</div>
+				
+				<div class="seckill-goods">
+					<ul class="clearfix">
+						<li>
+							<div class="bg">
+								<img src="img/1.png" alt="">
+							</div>
+							<div class="info">
+								<a href="" class="name">小米移动电源2C 20000mAh 白色</a>
+								<p class="tips">大容量，一个就够用</p>
+								<p class="price">1元<del>129元</del> </p>
+								<a href="" class="btn">登陆后抢购</a>
+								<p class="person">已经有83852人设置了提醒</p>
+							</div>
+							
+						</li>
+						
+					</ul>
+				</div>
+				<p class="seckill-notice">*小米闪购活动规则，小米闪购商品不享受在小米商城的其他优惠（包括但不限于优惠券，赠品，满减，满赠等）<br>温馨提示：因可能存在系统缓存，页面更新导致价格更新异常等不确定因素情况出现，如您发现活动商品标价或促销信息有异常，请立即联系小米客服，以便我们可以及时改正。</p>
+				
+			</div>
+		</div>
+	</body>
+</html>
